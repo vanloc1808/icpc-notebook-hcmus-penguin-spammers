@@ -12,7 +12,7 @@ Notebook of ICPC team: HCMUS-PenguinSpammers
 ```bash
     git clone https://github.com/vanloc1808/ICPC-Notebook-HCMUS-PenguinSpammers
     cd ICPC-Notebook-HCMUS-PenguinSpammers
-    notebook-generator ./content/ --output doc/hcmus.pdf --author "HCMUS-IdentityImbalance"
+    notebook-generator ./content/ --output doc/ICPCNotebooks-HCMUS-PenguinSpammers.pdf --author "HCMUS-PenguinSpammers"
 ```
 
 ## References
