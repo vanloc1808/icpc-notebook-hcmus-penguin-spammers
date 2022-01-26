@@ -11,7 +11,7 @@ Notebook of ICPC team: HCMUS-PenguinSpammers
 #### Install and build notebook
 ```bash
     git clone https://github.com/vanloc1808/ICPC-Notebook-HCMUS-PenguinSpammers
-    cd ICPC-Notebook
+    cd ICPC-Notebook-HCMUS-PenguinSpammers
     notebook-generator ./content/ --output doc/hcmus.pdf --author "HCMUS-IdentityImbalance"
 ```
 
