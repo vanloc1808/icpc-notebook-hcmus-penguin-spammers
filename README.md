@@ -18,3 +18,4 @@ Notebook of ICPC team: HCMUS-PenguinSpammers
 ## References
 - [notebook-generator tool](https://github.com/pin3da/notebook-generator)
 - [https://github.com/huynhtuan17ti/ICPC-Notebook](https://github.com/huynhtuan17ti/ICPC-Notebook)
+- [KTH Royal Institute of Technology](https://github.com/kth-competitive-programming/kactl)
