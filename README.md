@@ -1,5 +1,6 @@
 # ICPC-Notebook-HCMUS-PenguinSpammers
-Notebook of ICPC team: HCMUS-PenguinSpammers  
+Notebook of ICPC team: HCMUS-PenguinSpammers 
+Most of codes in this notebook are from References. 
 
 ## Installation
 ### Install notebook-generator
