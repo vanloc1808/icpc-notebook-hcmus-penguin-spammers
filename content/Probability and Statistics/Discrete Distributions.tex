@@ -1,0 +1,15 @@
+\subsubsection{Binomial distribution}
+The number of successes in $n$ independent yes/no experiments, each which yields success with probability $p$ is $\textrm{Bin}(n,p),\,n=1,2,\dots,\, 0\leq p\leq1$.
+\[p(k)=\binom{n}{k}p^k(1-p)^{n-k}\]
+\[\mu = np,\,\sigma^2=np(1-p)\]
+$\textrm{Bin}(n,p)$ is approximately $\textrm{Po}(np)$ for small $p$.
+
+\subsubsection{First success distribution}
+The number of trials needed to get the first success in independent yes/no experiments, each wich yields success with probability $p$ is $\textrm{Fs}(p),\,0\leq p\leq1$.
+\[p(k)=p(1-p)^{k-1},\,k=1,2,\dots\]
+\[\mu = \frac1p,\,\sigma^2=\frac{1-p}{p^2}\]
+
+\subsubsection{Poisson distribution}
+The number of events occurring in a fixed period of time $t$ if these events occur with a known average rate $\kappa$ and independently of the time since the last event is $\textrm{Po}(\lambda),\,\lambda=t\kappa$.
+\[p(k)=e^{-\lambda}\frac{\lambda^k}{k!}, k=0,1,2,\dots\]
+\[\mu=\lambda,\,\sigma^2=\lambda\]
